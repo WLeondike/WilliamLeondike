@@ -1,16 +1,36 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
+# React Portfolio
+
+  ![badge](https://img.shields.io/badge/License-MIT-blue)
+
+  In this application, I will showcase information about myself. I will present this application to future clients, employers, and anyone else that would be interested. Please feel free to reach out to me with the email provided below: 
+
+  Email: billyleondike@gmail.com <br>
+  GitHub: https://github.com/WLeondike
+  
+
+  ## Table of Contents
+
+  * [Installation](#installation)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Screenshots](#screenshots)
+  
+
+  ## Installation
+  
+  > ```npm i```
+  
+  
+  ## Credits
+  
+  John Dinsmore (Coding Instructor at UCF)
+  
+
+  ## Screenshots
+
+  <img src ="" width="400">
 
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
-
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
-
-## How to use
-1. Clone/Download the repo.
-2. Run  ``` npm install ```.
-3. Change the values in ```src/resumeData.js``` to suit your use-case.
-4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
-5. Make required changes in ```src/resumeData.js``` to suit your needs.
-
+  ## License
+  
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <br> <br> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. <br> <br> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
