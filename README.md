@@ -5,7 +5,8 @@
   In this application, I will showcase information about myself. I will present this application to future clients, employers, and anyone else that would be interested. Please feel free to reach out to me with the email provided below: 
 
   Email: billyleondike@gmail.com <br>
-  GitHub: https://github.com/WLeondike
+  GitHub: https://github.com/WLeondike <br>
+  Link to my deployed page: https://wleondike.github.io/WilliamLeondike
   
 
   ## Table of Contents
@@ -28,7 +29,7 @@
 
   ## Screenshots
 
-  <img src ="" width="400">
+  <img src ="./public/images/homePageScreenshot.png" width="400">
 
 
   ## License
