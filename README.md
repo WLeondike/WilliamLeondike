@@ -23,7 +23,7 @@
   
   ## Credits
   
-  John Dinsmore (Coding Instructor at UCF)
+  John Dinsmore (Coding Instructor at UCF) <br> Rahul Bhatia (React Portfolio Template)
   
 
   ## Screenshots
