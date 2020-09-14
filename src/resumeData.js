@@ -2,7 +2,7 @@ let resumeData = {
   id: "WLeondike",
   imagebaseurl: "https://github.com/WLeondike",
   name: "William Leondike",
-  role: "MERN Developer and React enthusiast",
+  role: "MERN Developer and React Enthusiast",
   linkedinId: " William Leondike",
   roleDescription: "",
   socialLinks: [
@@ -24,7 +24,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "With my exceptional ability to organize, analyze, and adapt, I will continue to develop my programming skills as a MERN stack developer each day. I plan to help shape the user experience over the internet, one smile at a time.",
+    "MERN stack developer who excels at organizing, analyzing, and adapting. Always Eager to learn while developing in a career. Graduate of the University of Central Florida Full-Stack Coding Boot Camp with an A+ and perfect attendance.",
   address: "Orlando, FL",
   website: "billyleondike@gmail.com",
   education: [
