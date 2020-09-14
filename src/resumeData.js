@@ -24,7 +24,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "MERN stack developer who excels at organizing, analyzing, and adapting. Always Eager to learn while developing in a career. Graduate of the University of Central Florida Full-Stack Coding Boot Camp with an A+ and perfect attendance.",
+    "MERN stack developer who excels at organizing, analyzing, and adapting. Always eager to learn while developing in a career. Graduate of the University of Central Florida Full-Stack Coding Boot Camp with an A+ and perfect attendance.",
   address: "Orlando, FL",
   website: "billyleondike@gmail.com",
   education: [
